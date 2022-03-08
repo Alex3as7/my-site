@@ -1,2 +1,5 @@
 # my-site
-Personal website
+
+My personal site, still in development, can be found at
+
+https://www.webxcel.net
