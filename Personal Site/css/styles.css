@@ -4,6 +4,7 @@ html {
     clip: auto;
     position: absolute;
     overflow: hidden;
+    margin-left: 20px;
  }
 
 body{
