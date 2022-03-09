@@ -5,6 +5,7 @@ html {
     position: absolute;
     overflow: hidden;
     margin-left: 20px;
+    padding-left: 1px;
  }
 
 body{
